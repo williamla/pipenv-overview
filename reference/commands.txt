@@ -1,0 +1,22 @@
+pip install pipenv
+
+pipenv arguments to try (take your own notes!):
+Install requests
+Install pytests --dev
+Graph
+--venv
+--py
+--two
+--env
+Shell
+install
+Uninstall requests
+Run pip freeze
+clean
+Lock -r
+Lock -r --dev
+Install kafka --skip-lock
+Install kafka-python==1.2.0
+update --outdated
+update
+

@@ -1,0 +1,7 @@
+******************************************************
+*       Welcome to the training container!           *
+*  /reference contains files that might be helpful   *
+*  and bash is also installed if don't want to sh it *
+**************************************************w*l*
+  >> Pay attention or cat /reference/commands.txt <<
+
